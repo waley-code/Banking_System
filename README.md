@@ -8,7 +8,7 @@ Author: <strong>Adeosun Oyewale Oluwapelumi</strong>
 
 ### Introduction
 
-    This is a mini online banking system that can perform basic banking operations which includes
+    This is a mini online banking system that performs basic banking operations which includes
         Opening an account
         Logging into an existing account,
         Making cash withdrawals,
