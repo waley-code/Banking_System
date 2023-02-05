@@ -23,7 +23,7 @@ Author: <strong>Adeosun Oyewale Oluwapelumi</strong>
             User is prompted to provide the following details
                 - Name
                 - Phone number
-                - Account number
+                - Account number 
                 - Password
         2. Login into an existing account
             User is prompted to choose a preferred transaction from options below
